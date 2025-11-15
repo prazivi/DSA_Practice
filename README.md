@@ -7,12 +7,7 @@ This repository is my public commitment to consistency, growth, and leveling up 
 
 ---
 
-## 📅 Challenge Timeline
 
-**Start Date:** [22-04-2025]  
-**Goal:** Solve DSA problems consistently for 100 days, covering all key topics and patterns.
-
----
 
 ## 🛠️ What I’m Using
 
